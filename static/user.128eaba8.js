@@ -1,1 +1,0 @@
-import{G as a,P as s}from"./request.a5a6bf77.js";const e=()=>a("/api/auth/session"),o=t=>s("/api/auth/register",t),i=t=>s("/api/auth/login",t);export{i as a,o as b,e as c};
