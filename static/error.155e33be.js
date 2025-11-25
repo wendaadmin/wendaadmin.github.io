@@ -1,0 +1,1 @@
+import{_ as o,c as s,o as _,p as c,a as t,b as a}from"./entry.bd449256.js";const r={},d=e=>(c("data-v-6b4db0bf"),e=e(),t(),e),n={class:"error-page"},p=d(()=>a("h1",null,"未登录，请先登录",-1)),b=[p];function f(e,i){return _(),s("div",n,b)}const h=o(r,[["render",f],["__scopeId","data-v-6b4db0bf"]]);export{h as default};
